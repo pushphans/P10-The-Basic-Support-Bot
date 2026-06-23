@@ -1,4 +1,3 @@
-Yeh README update ready hai — aap ise repository ke README.md mein paste kar sakte hain:
 
 ```markdown name=README.md
 # P10-The-Basic-Support-Bot
